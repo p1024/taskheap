@@ -1,0 +1,26 @@
+{
+  "name": "taskheap",
+  "version": "1.0.0",
+  "description": "heap for task manage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "p1024",
+  "license": "MIT",
+  "dependencies": {
+    "heap": "git+https://github.com/p1024/heap.git"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1024/taskheap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/p1024/taskheap/issues"
+  },
+  "homepage": "https://github.com/p1024/taskheap#readme"
+}
